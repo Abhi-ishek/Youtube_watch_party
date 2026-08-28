@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import YouTubePlayer from "../components/Youtubeplayer.jsx";
+import YouTubePlayer from "../components/YouTubePlayer.jsx";
 import socket from "../socket";
 
 function Room() {
